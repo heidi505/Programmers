@@ -1,9 +1,13 @@
 # 프로그래머스 하면서 써본 함수 정리
 
-## 1. 문자열을 정수로 
+## 1. 문자열을 정수로
 - Interger.valueOf()
 - Integer.parseInt()
 - 인수는 문자열
+
+### 1-1. 정수를 문자열로
+- String.valueOf()
+- Integer.toString()
 
 ## 2. ~로 시작하는지 확인
 - (문자열이름).startsWith("접두사")
