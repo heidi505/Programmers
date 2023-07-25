@@ -10,5 +10,5 @@
 - boolean 타입, "접두사"로 시작하면 1, 시작하지 않으면 0으로 반환한다.
 
 ## 3. 대문자로/소문자로 변환
--(문자열이름).toLowerCase()
--(문자열이름).toUpperCase()
+- (문자열이름).toLowerCase()
+- (문자열이름).toUpperCase()
