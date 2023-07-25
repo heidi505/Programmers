@@ -24,9 +24,9 @@ class Logic {
             else if(arr[0] == arr[1]){
                 answer = arr[2]*arr[3];
             } else if (arr[1] == arr[2]) {
-                answer = arr[0]*arr[1];
-            } else if (arr[2] == arr[3]) {
                 answer = arr[0]*arr[3];
+            } else if (arr[2] == arr[3]) {
+                answer = arr[0]*arr[1];
             }  //case 4
         }
 
