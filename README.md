@@ -16,3 +16,6 @@
 ## 3. 대문자로/소문자로 변환
 - (문자열이름).toLowerCase()
 - (문자열이름).toUpperCase()
+
+
+정리할 것: charAt(i)랑 String.valueOf();
