@@ -1,4 +1,6 @@
-public class Prefix {
+package src.main.java;
+
+public class Prefix { 
     public int solution(String my_string, String is_prefix) {
         int answer = 0;
         boolean prefix = my_string.startsWith(is_prefix);

@@ -1,4 +1,4 @@
-package Answer;
+package src.main.java.Answer;
 
 import java.util.HashMap;
 import java.util.Map;
