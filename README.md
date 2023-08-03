@@ -17,5 +17,8 @@
 - (문자열이름).toLowerCase()
 - (문자열이름).toUpperCase()
 
-
-정리할 것: charAt(i)랑 String.valueOf();
+## 4. 배열에 값 넣기
+-  System.arraycopy(originArray, x, array, y, z)
+-  originArray의 x번째 원소부터 z개를 array의 y번째부터 넣겠다
+- ex) System.arraycopy(arr1, 0, arr2, 1, 3);    // arr1의 index 0에서부터 3개를, arr2의 index 1에서부터 copy
+ 정리할 것: charAt(i)랑 String.valueOf();
